@@ -1,3 +1,3 @@
 # test-repo
 
-test repo to count-files
+test repo to count-files.
